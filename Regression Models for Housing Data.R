@@ -1,7 +1,7 @@
 #------------------------------------------------------------------------------
 #
 # Data Mining & Machine Learning
-# Title: Multiple Regression Analyses on Housing Data
+# Title: Variuos Regression Models for Housing Data Analysis
 # By: Vivian Yuen-Lee
 #
 #------------------------------------------------------------------------------
