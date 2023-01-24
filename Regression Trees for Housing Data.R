@@ -1,14 +1,14 @@
 #------------------------------------------------------------------------------
 #
 # Data Mining & Machine Learning
-# Title: Various Decision Trees for Housing Data Analysis
+# Title: Regression Trees and Other Rule-Based Models for Housing Data Analysis
 # By: Vivian Yuen-Lee
 #
 #------------------------------------------------------------------------------
 
-# Ths purpose is to implement different decision tree algorithms using the 
+# Ths purpose is to implement different regression tree algorithms using the 
 # BostonHousing dataset from the "mlbench" package.
-# The tree algorithms include:
+# These tree algorithms include:
 # - Conditional inference tree
 # - Bagged tree
 # - Random forests
