@@ -2,6 +2,7 @@
 #
 # Data Mining & Machine Learning
 # Title: Discriminant Analysis & Linear / Non-linear Classification Models
+#        For Customer Churn Analysis
 # By: Vivian Yuen-Lee
 #
 #-----------------------------------------------------------------------------
