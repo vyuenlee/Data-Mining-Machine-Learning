@@ -1,7 +1,7 @@
 #------------------------------------------------------------------------------
 #
 # Data Mining & Machine Learning
-# Title: Bath Soap Market Segmentation
+# Title: Market Segmentation for Soap using k-Means Clustering Technique
 # By: Vivian Yuen-Lee
 #
 #------------------------------------------------------------------------------
