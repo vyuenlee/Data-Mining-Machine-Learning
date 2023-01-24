@@ -6,8 +6,8 @@
 #
 #------------------------------------------------------------------------------
 
-# Ths purpose is to implement different algorithms on the BostonHousing 
-# dataset from the "mlbench" package.
+# Ths purpose is to demonstrate the application of different regression  
+# algorithms to the BostonHousingdataset from the "mlbench" package.
 # These algorithms include:
 # - Linear regression
 # - Partial least squares
