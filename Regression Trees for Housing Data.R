@@ -6,8 +6,8 @@
 #
 #------------------------------------------------------------------------------
 
-# Ths purpose is to implement different regression tree algorithms using the 
-# BostonHousing dataset from the "mlbench" package.
+# Ths purpose is to demonstrate the application of various regression tree  
+# algorithms to the BostonHousing dataset from the "mlbench" package.
 # These tree algorithms include:
 # - Conditional inference tree
 # - Bagged tree
