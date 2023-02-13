@@ -8,7 +8,7 @@
 
 
 # Load all necessary libraries 
-library(ggplot2)          # library for sophisticated plots
+library(ggplot2)          # library for ggplot functions
 library(dplyr)            # library for creating profile summaries
 library(caret)            # library for stratified random split
 library(rpart)            # library for decision tree model
